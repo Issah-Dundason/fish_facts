@@ -1,6 +1,6 @@
 # fish_facts
 
-A new Flutter project.
+A flutter app that displays facts about fishes.
 
 ## Getting Started
 
